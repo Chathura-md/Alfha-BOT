@@ -63,10 +63,10 @@ global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.alivemsg = "Ladies and Gentlemen!!!! I am Alpha BOT by ultra infinity founder chathura.I help you through whatsapp to make your daily work easier.....සුභ දවසක් !!!! මම ultra infinity නිර්මාතෘ chathura විසින් නිෂ්පාදිත Alpha BOT වේ.ඔබගේ එදිනෙදා කටයුතු පහසු කර ගැනීමට whatsapp මගින් මම ඔබට උපකාරී වෙමි. "
 
 //BOT MEDIAS
-global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur error pic
-global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./LocalData/theme/cyber.jpeg") //ur thumb pic
+global.log0 = fs.readFileSync("./LocalData/theme/cyber.jpeg") //ur logo pic
+global.err4r = fs.readFileSync("./LocalData/theme/cyber.jpeg") //ur error pic
+global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpeg") //ur thumb pic
 
 //DATA BASED
 
