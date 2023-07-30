@@ -38,7 +38,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //OWNER CONTACT
 global.vcardowner = ['94740750184'] //ur owner number
 global.ownername = "Alpha BOT" //ur owner name
-global.ytname = "Alpha Editing" //ur yt chanel name
+global.ytname = "බට්ටා YT" //ur yt chanel name
 global.socialm = "************" //ur github or insta name
 global.location = "Ampara" //ur location
 
